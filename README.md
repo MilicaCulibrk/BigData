@@ -6,6 +6,7 @@ Download data [from here](https://www.kaggle.com/manchunhui/us-election-2020-twe
  - deleteEmojis.py
  - clean.py
  - appendFiles.py
+ 
 Merged file should also be coppied to both ./stream/consumer folder. 
 
 # Environment setup
