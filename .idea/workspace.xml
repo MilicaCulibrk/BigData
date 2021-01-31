@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d347a2d8-d093-4954-91c3-78cdfdf954aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/stream/consumer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch/appendFiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch/appendFiles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch/batch.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch/batch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch/clean.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch/clean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/allTweets.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/allTweets.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/tweetsBiden.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/tweetsTrump.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream/consumer/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/stream/consumer/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream/producer/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/stream/producer/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream/producer/tweetsTrump.csv" beforeDir="false" afterPath="$PROJECT_DIR$/stream/producer/tweetsTrump.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nkTHbAEWyd8uqKAHTsKrohYPu2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d347a2d8-d093-4954-91c3-78cdfdf954aa" name="Default Changelist" comment="" />
+      <created>1611933003398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611933003398</updated>
+      <workItem from="1611933005414" duration="5000" />
+    </task>
+    <servers />
+  </component>
+</project>
